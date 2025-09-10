@@ -14,5 +14,6 @@ Builds a **Linear regression** model using scikit-learn
 - Model Evaluation
 
 
+KAGGLE : https://www.kaggle.com/code/devadharshinirr/linear-regression
 
 
